@@ -14,7 +14,7 @@ Welcome to my GitHub! I am a final year engineering student currently pursuing a
 
 - **Machine Learning**: TensorFlow, Keras, NumPy, Scikit-learn
 
-- **Control Systems**: Simulink, PID control, Kalman filtering, Optimisation
+- **Control Systems**: Simulink, PID control, LQR control, Kalman filtering, Optimisation
 
 - **Version Control**: Git, GitHub
 
