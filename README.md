@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Jirapat Rojnuckarin (Golf)
 
-Welcome to my GitHub! I am a final year engineering student currently pursuing a degree in MEng Aeronautical with Spacecraft Engineering with a strong focus on engineering applications, machine learning, and control systems. My interests lie at the intersection of technology and problem-solving, and I am eager to contribute to innovative projects that impact the world.
+Welcome to my GitHub! I am an Aeronautical with Spacecraft Engineering (MEng) graduate from Imperial College London with a strong focus on engineering applications with machine learning. My interests lie at the intersection of technology and problem-solving, and I am eager to contribute to innovative projects that impact the world.
 
 ## 🔧 **What I'm Working On**:
 - Neural Networks & Machine Learning: I’ve been learning and experimenting with deep learning, specifically in Convolution Neural Network and its promising application in the field of computer vision. I'm extremely excited by how AI can be applied to engineering challenges and I am planning to create a project which combines the two disciplines together!
@@ -13,8 +13,6 @@ Welcome to my GitHub! I am a final year engineering student currently pursuing a
 - **Engineering Software**: Abaqus/CAE, SolidWorks, AutoCAD
 
 - **Machine Learning**: TensorFlow, Keras, NumPy, Scikit-learn
-
-- **Control Systems**: Simulink, PID control, LQR control, Kalman filtering, Optimisation
 
 - **Version Control**: Git, GitHub
 
@@ -32,9 +30,6 @@ I love working on projects that challenge my problem-solving skills and push me 
 [LinkedIn](https://www.linkedin.com/in/jirapatrojnuckarin)
 
 [Email](golf.jirapat@gmail.com)
-
-
-Thanks for stopping by! Feel free to check out my repositories and reach out if you’d like to collaborate on a project.
 
 
 <!---
