@@ -1,46 +1,31 @@
-# 👋 Hello! I'm Jirapat Rojnuckarin (Golf)
+<div align="center">
 
-Welcome to my GitHub! I am an Aeronautical with Spacecraft Engineering (MEng) graduate from Imperial College London with a strong focus on engineering applications with machine learning. My interests lie at the intersection of technology and problem-solving, and I am eager to contribute to innovative projects that impact the world.
+  # 🚀 Jirapat Rojnuckarin (Golf)
 
-## 🔧 **What I'm Working On**:
-- Neural Networks & Machine Learning: I’ve been learning and experimenting with deep learning, specifically in Convolution Neural Network and its promising application in the field of computer vision. I'm extremely excited by how AI can be applied to engineering challenges and I am planning to create a project which combines the two disciplines together!
+  ### MEng Aeronautical with Spacecraft Engineering Graduate
+  *Imperial College London*
 
-- Finite Element Analysis: I’m proficient in using Abaqus/CAE for simulations and analysis of complex static and dynamic problems.
+  <br>
 
-## 🛠️ **Skills & Tools**:
-- **Programming Languages**: Python, MATLAB, C++
+  I am a recent engineering graduate passionate about aerospace technology.
+  Currently, I am expanding my technical skill set and exploring new software technologies.
+  
+  <br>
 
-- **Engineering Software**: Abaqus/CAE, SolidWorks, AutoCAD
+  ### 🛠️ Languages and Tools
 
-- **Machine Learning**: TensorFlow, Keras, NumPy, Scikit-learn
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED7D31.svg?style=for-the-badge&logo=matlab&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  <br>
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  
+  <br>
 
-- **Version Control**: Git, GitHub
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jr24)
 
-## 💡 **Projects & Contributions**:
-I love working on projects that challenge my problem-solving skills and push me to learn new technologies. Some of the projects I’ve worked on include:
-
-- **Europa Landing Simulation**: This project focuses on simulating the landing of a spacecraft on Europa, including challenges like low gravity, icy terrain, and uncertain surface conditions. I designed a control systems in MATLAB using the principal of the 'Lossless Convexification' for finding the optimal path to the specified landing location. The project includes:
-  - Descent Control: Simulating descent with real-time adjustment of main thrusters and reaction control system to minimise fuel consumption and landing errors.
-  - Hazard Detection: Exploring sensor-based systems to detect surface irregularities or ice fractures during landing.
-
-- **Project Svarog**: To construct a craft that will reach the Sun’s escape velocity and the heliopause (assumed at 123 AU from the Sun) within 100 years from launch by using solar sail technology.
-  - Currently working as an mechanical and structural simulation engineer to ensure the structural integrity of the sail's hub during the main demonstration at Esrange, Kiruna, as part of the BEXUS programme.
-
-## 📫 Connect with Me:
-[LinkedIn](https://www.linkedin.com/in/jirapatrojnuckarin)
-
-[Email](golf.jirapat@gmail.com)
-
-
-<!---
-- 👋 Hi, I’m @golf249
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-golf249/golf249 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <br>
+</div>
