@@ -6,8 +6,8 @@
 
   <br>
 
-  I am a recent engineering graduate passionate about aerospace technology.
-  Currently, I am expanding my technical skill set and exploring new software technologies.
+  I am a recent engineering graduate passionate about programming and tech.
+  Currently, I am expanding my technical skill set and exploring new software technologies in the realm of quantitative development, deep learning, and game development!
 
   ---
 
